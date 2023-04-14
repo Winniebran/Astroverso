@@ -2,7 +2,7 @@
 
 # Astroverso
 Projeto Front-End do módulo 3 da Kenzie Academy, desenvolvido pelo grupo 1.
-Projeto: https://astroverso.vercel.app/
+Projeto: https://astroverso-winniebran.vercel.app/
 
 O Astroverso é um site estudantil que tem por objetivo tornar o aprendizado sobre astronomia mais simples, divertido e interativo. 
 
